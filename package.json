@@ -11,6 +11,6 @@
   "license": "MIT",
   "devDependencies": {
     "@cybozu/eslint-config": "6.0.2",
-    "eslint": "6.1.0"
+    "eslint": "6.2.2"
   }
 }
