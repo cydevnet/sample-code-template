@@ -1,0 +1,16 @@
+{
+  "name": "devnet-sample-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "lint": "eslint",
+    "fix": "eslint --fix"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@cybozu/eslint-config": "6.0.2",
+    "eslint": "6.1.0"
+  }
+}
