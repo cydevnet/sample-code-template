@@ -3,4 +3,5 @@
  * Copyright (c) 201x Cybozu
  *
  * Licensed under the MIT License
+ * https://opensource.org/licenses/mit-license.php
 */
