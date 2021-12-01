@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@cybozu/eslint-config": "16.0.0",
+    "@cybozu/eslint-config": "16.0.1",
     "eslint": "8.3.0"
   }
 }
